@@ -3,40 +3,40 @@
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:15.22] Here comes the sun, doo-doo-doo-doo
-[00:18.91] Here comes the sun, and I say
-[00:22.31] It's alright
-[00:28.31] 
-[00:27.94] Little darlin', it's been a long, cold, lonely winter
-[00:35.36] Little darlin', it feels like years since it's been here
-[01:03.36] 
-[00:42.82] Here comes the sun, doo-doo-doo-doo
-[00:46.42] Here comes the sun, and I say
-[00:50.13] It's alright
-[00:56.13] 
-[00:59.71] Little darlin', the smile's returning to their faces
-[01:07.17] Little darlin', it seems like years since it's been here
-[01:35.17] 
-[01:14.62] Here comes the sun
-[01:18.53] Here comes the sun, and I say
-[01:22.13] It's alright
-[01:28.13] 
-[01:36.58] Sun, sun, sun, here it comes
-[01:42.55] Sun, sun, sun, here it comes
-[01:48.49] Sun, sun, sun, here it comes
-[01:54.34] Sun, sun, sun, here it comes
-[02:00.19] Sun, sun, sun, here it comes
-[02:14.19] 
-[02:12.37] Little darlin', I feel that ice is slowly melting
-[02:19.88] Little darlin', it seems like years since it's been clear
-[02:48.38] 
-[02:27.38] Here comes the sun, doo-doo-doo-doo
-[02:30.80] Here comes the sun, and I say
-[02:34.63] It's alright
-[02:40.63] 
-[02:40.37] Here comes the sun, doo-doo-doo-doo
-[02:43.76] Here comes the sun
-[02:47.56] It's alright
-[02:53.56] 
-[02:53.31] It's alright
+[00:15.06] Here comes the sun, doo-doo-doo-doo
+[00:18.79] Here comes the sun, and I say
+[00:22.02] It's alright
+[00:28.02] 
+[00:27.58] Little darlin', it's been a long, cold, lonely winter
+[00:34.88] Little darlin', it feels like years since it's been here
+[01:02.88] 
+[00:42.56] Here comes the sun, doo-doo-doo-doo
+[00:46.43] Here comes the sun, and I say
+[00:50.23] It's alright
+[00:56.23] 
+[00:59.54] Little darlin', the smile's returning to their faces
+[01:06.97] Little darlin', it seems like years since it's been here
+[01:34.97] 
+[01:14.55] Here comes the sun
+[01:18.29] Here comes the sun, and I say
+[01:21.68] It's alright
+[01:27.68] 
+[01:36.43] Sun, sun, sun, here it comes
+[01:42.26] Sun, sun, sun, here it comes
+[01:48.00] Sun, sun, sun, here it comes
+[01:53.97] Sun, sun, sun, here it comes
+[01:59.88] Sun, sun, sun, here it comes
+[02:13.88] 
+[02:11.92] Little darlin', I feel that ice is slowly melting
+[02:19.17] Little darlin', it seems like years since it's been clear
+[02:47.67] 
+[02:26.80] Here comes the sun, doo-doo-doo-doo
+[02:30.75] Here comes the sun, and I say
+[02:34.54] It's alright
+[02:40.54] 
+[02:40.15] Here comes the sun, doo-doo-doo-doo
+[02:43.87] Here comes the sun
+[02:47.47] It's alright
+[02:53.47] 
+[02:52.94] It's alright
 ```
